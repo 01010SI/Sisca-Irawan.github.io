@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width-device-width, initial-scale=2.0">
+        <title>
+            " MENGGUNAKAN LINE BREAK "
+        </title>
+    </head>
+
+    <body>
+        MENGGUNAKAN LINE BREAK <br><br>
+        Dengan Menggunakan Line Break, Kita dapat memindahkan kalimat<br>
+        Setelah elemen tersebut satu baris dibawahnya. <br>
+        Seperti menggunakan ENTER pada word processing.
+    </body>
+
+</html>

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=2.0">
+        <title>
+            " MENGGUNAKAN HEADING "
+        </title>
+    </head>
+
+    <body>
+        DOKUMEN HTML INI MENGGUNAKAN HEADING
+        <h1>HEADING 1</H1>
+        <h2 ALIGN = "RIGHT">HEADING 2</H2>
+        <h3 ALIGN = "CENTER">HEADING 3</H3>
+        <h4>HEADING 4</H4>
+        <h5>HEADING 5</H5>
+        <h6>HEADING 6</H6>
+        <h3 ALIGN = "LEFT">HEADING 8</H3>
+    </body>   
+
+</html>

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width-device-width, initial-scale=2.0">
+        <title>
+            " PENGOLAHAN FONT DENGAN PROPERTIES "
+        </title>
+    </head>
+
+    
+    <Body>
+        <Fot size = "1" face = tahoma color =0010000> Tulisan ini bertulisan dengan font Tahoma dan berwarna HIJAU
+        </Fot>
+        <br>
+        <Fot size ="4" face = "arial"color = GREEN> Tulisan ini bertulisan dengan ukuran 4, menggunakan font Arial dan berwarna HIJAU
+        </Fot>
+    </Body>
+
+</html>

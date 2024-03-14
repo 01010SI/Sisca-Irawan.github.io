@@ -1,0 +1,43 @@
+<!DOCTYPE HTML>
+<Html>
+    <Head>
+        <meta charset="en">
+        <meta name="viewport" content="width-device-width, initial-scale 2.0">
+        <Title>
+            " PENGGUNA LISTING "
+        </Title>
+    </Head>
+
+    <Body>
+       <h3> Menggunakan Unordered List </h3>
+       <hr>
+       <h4> Ordered List Dengan Type Default </h4>
+       <ul>
+         <li> Agung Nugroho </li>
+         <li> Malya Sulityono </li>
+         <li> Bernadhed </li>
+       </ul>
+
+       <h4> Unordered List Dengan Type circle </h4>
+       <ul type = "circle">
+         <li> Agung Nugroho </li>
+         <li> Mulya Sulityono </li>
+         <li> Bernadhed </li>
+       </ul>
+
+       <h4> Unordered List Dengan Type Disc </h4>
+       <ul type ="disc">
+          <li> Agung Nugroho </li>
+          <li> Mulya Sulityono </li>
+          <li> Bernadhed </li>
+       </ul>
+
+       <h4> Unordered List Dengan Type Square </h4>
+       <ul type ="Square">
+          <li> Agung Nugroho </li>
+          <li> Mulya Sulityono </li>
+          <li> Bernadhed </li>
+       </ul>
+    </Body>
+
+</Html>

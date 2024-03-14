@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width-device-width, initial-scale=2.0">
+        <Title>
+            " MENGGUNAKAN TEKNIK FORMAT PENULISAN "
+        </Title>
+    </head>
+
+    <body>
+      <!-- Membuat tulisan menjadi TEBAL -->   
+      <b> Tulisan ini dicetak TEBAL </b>
+      <p>
+      <!-- Membuat tulisan menjadi MIRING -->
+      <i> Tulisan ini dicetak MIRING </i>
+      <p>
+      <!-- Membuat tulisan menjadi BERGARIS BAWAH -->  
+      <u> Tulisan ini dicetak BERGARIS BAWAH </u>
+    </body>
+
+</html>
