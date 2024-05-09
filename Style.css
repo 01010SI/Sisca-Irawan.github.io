@@ -1,0 +1,108 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar {
+    overflow: hidden;
+    background-color: #333;
+}
+
+.navbar a {
+    float: left;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.dropdown {
+    float: left;
+    overflow: hidden;
+}
+
+.dropdown .dropbtn {
+    font-size: 16px;
+    border: none;
+    outline: none;
+    color: white;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+}
+
+.navbar a:hover, 
+.dropdown :hover .dropbtn {
+    background-color: #00f;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    float: none;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.dropdown-content a:hover {
+    background: #f00;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+#register-form {
+    width: 600px;
+    margin: 0 auto;
+}
+
+#register-form .row-input {
+    margin-bottom: 24px;
+}
+
+#register-form input {
+    padding: 8px 12px;
+    width: 100%;
+    background-color: #f9f9f9;
+    border-radius: 4px;
+    border: none;
+}
+
+#register-form button {
+    width: 100%;
+    border: none;
+    background-color: rgb(17, 179, 66);
+    color: #fff;
+    padding: 10px 12px;
+    cursor: pointer;
+}
+
+#register-form a {
+    color: rgb(0, 170, 225);
+    text-decoration: none;
+}
+
+#register-form a:hover {
+    color: #00f;
+}
+
+#register-form .footer-form{
+    background-color: #f9f9f9;
+    text-align: center;
+    padding: 20px 20px;
+    margin-top: 24px;
+}
